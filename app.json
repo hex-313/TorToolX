@@ -1,0 +1,16 @@
+{
+  "name": "TorToolKit Bot",
+  "description": "TorTool",
+  "logo": "https://i.imgur.com/ATSG4w3.png",
+  "keywords": [
+    "telegram",
+    "mirrorbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/hex-313/TorToolX",
+  "website": "https://github.com/hex-313/TorToolX",
+  "success_url": "https://github.com/hex-313/TorToolX",
+  "stack": "container"
+  }
